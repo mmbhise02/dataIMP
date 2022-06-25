@@ -1,0 +1,42 @@
+Array
+
+Array is the collection of multiple values into Singale variable Is calld as array.
+Array is index based cocept
+
+Disadvatages:
+Array is Fixed in size.
+increment and decrement is not possible in array.
+=====================================================
+1.Declaration and Initalization and Instantaniation
+Approch:
+int []array={10,20,30,40,50};All in one
+Approch2:
+int [] array=new int[100];Declration and instant
+a[0]=10; initalization
+
+============================================
+Which Opration performing on Array
+1.Search
+2.delete
+3.sorting
+
+=======================
+Deffrance Between array and arrayList
+Array:
+1.Array is fixed in size
+2.array takes only homoginus values
+3.Array is conatanier which stored multiple values in singal variable
+4.array size is not defult size
+5.Array stores primitive and obj also
+6.we can add element by using Assigned oprater
+7.it is multidimensnal
+
+ArrayList:
+1.ArrayList is the class of java collection fremwork
+2.ArrayList is not fixed in size,int defult size is 10,and its growable
+3.it decrease or increase size
+4.it convert primitive types into object
+5.it is singal dimention
+
+===========================================================
+
